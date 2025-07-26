@@ -1,6 +1,6 @@
 def saudacao():
     nome = input("Digite seu nome: ")
-    print(f"Olá, {nome}! Vamos calcular.")
+    print(f"Olá, {nome}! Vamos somar.")
 
 def soma(a, b):
     return a + b
